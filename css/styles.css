@@ -12,13 +12,13 @@ body {
   border: 0;
 }
 
-#logo-img {
+/*#logo-img {
   background: url('../images/circle.png') no-repeat;
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
 }
-
+*/
 .navbar-brand {
   padding-top: 25px;
 }
@@ -50,11 +50,11 @@ body {
   margin-top: 10px;
 }
 #nav-list a {
-  color: #951C49;
+  color: #d4af37;
   text-align: center;
 }
 #nav-list a:hover {
-  background: #E7E7E7;
+  background: #e1d8cf;
 }
 #nav-list a span {
   font-size: 1.8em;
@@ -74,7 +74,7 @@ body {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
+  border: 1px solid #d4af37;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
@@ -87,7 +87,7 @@ body {
   margin-top: 30px;
   padding-top: 35px;
   padding-bottom: 30px;
-  background-color: #222;
+  background-color: #373741;
   border-top: 0;
 }
 .panel-footer div.row {
